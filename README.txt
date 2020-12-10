@@ -1,4 +1,4 @@
-JaSTA - Java Superposition T-matrix App version 1.0.1 25/10/2013
+JaSTA - Java Superposition T-matrix App version 1.0.1 2013/10/25
 ---------------------------------------------------------------------
 Optical properties of porous aggregate particles have been extensively studied through the use of various numerical techniques (viz. Superposition Transition Matrix (STM) code, Discrete Dipole Approximation (DDA) code etc.). The STM code, developed by Mackowski & Mishchenko, (1996, J. Opt. Soc. Am. A., 11, 1491),   is widely used by researchers to study the light scattering properties of cosmic dust aggregates.   This code is written in Fortran language.
 
@@ -17,7 +17,7 @@ Downloading:
 ==============
 JaSTA is available for download from the following URL:
 
-http://ausastro.in/jasta.html
+http://cpc.cs.qub.ac.uk/summaries/AETB_v1_0.html
 
 
 System Requirements:
