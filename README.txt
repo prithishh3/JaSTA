@@ -82,7 +82,7 @@ Working with JaSTA :
 ============================
 The working instructions for JaSTA are presented in the JaSTA manual which is included in this package and also available for download from the following link,
 
-  http://ausastro.in/jasta.html
+  http://cpc.cs.qub.ac.uk/summaries/AETB_v1_0.html
 
 Note:
 ==============================================
@@ -768,21 +768,20 @@ JaSTA is fully documented in the JaSTA manual, which is contained
 in this distribution as the file JaSTA_manual.pdf. There is information 
 about the documentation online in the following link.
 
-  http://ausastro.in/jasta.html
+  http://cpc.cs.qub.ac.uk/summaries/AETB_v1_0.html
 
 
 Development
 -----------
 
-JaSTA development is hosted by Assam University Astrophysics Group 
+JaSTA development is hosted by Mendeley Data under Computer Physics Communications
 
-http://ausastro.in
-http://ausastro.in/jasta.html
+http://cpc.cs.qub.ac.uk/summaries/AETB_v1_0.html
 
 Bug Reporting
 -------------
 
-You can send JaSTA bug reports to <admin@ausastro.in>. 
+You can send JaSTA bug reports to <prithishh3@gmail.com>. 
 
 -------------------------------------------------------------------------------
 Copyright (C) 2007 Free Software Foundation,
